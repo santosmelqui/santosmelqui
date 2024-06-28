@@ -1,5 +1,5 @@
 ## Hi, Good to see you! I'm Melqui 👊🏽
-Today I develop projects with Python, and I am always looking to expand my knowledge with other skills and digital tools.
+Today I'm improving my knowledge in Python and Java, and I am always looking to expand my knowledge with other skills and digital tools.
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosmelqui&show_icons=true&theme=tokyonight)
