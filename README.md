@@ -1,5 +1,5 @@
-## Hi, Good to see you! I'm Melqui 👊🏽
-Today I'm using my knowledge in Python and Java, and I am always looking to expand my knowledge with other skills and digital tools.
+## Hi! Good to see you, I'm Melqui 👊🏽
+Olá! Bom te ver por aqui, Sou o Melqui. Um entusiasta em tecnologia, com principal foco o desenvolvimento em Python. Veja mais sobre meus projetos abaixo.
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosmelqui&show_icons=true&theme=tokyonight)
