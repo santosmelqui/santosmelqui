@@ -1,5 +1,5 @@
 ## Hi! Good to see you, I'm Melqui 👊🏽
-Olá! Bom te ver por aqui, Sou o Melqui. Entusiasta em tecnologia. Veja mais sobre meus projetos abaixo.
+Olá! Bom te ver por aqui, Veja mais sobre meus projetos abaixo.
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosmelqui&show_icons=true&theme=tokyonight)
